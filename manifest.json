@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Prompt Saver",
+  "version": "1.0",
+  "description": "Save and manage frequently used prompts",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
