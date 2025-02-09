@@ -17,11 +17,7 @@ Prompt-Save is a Google Chrome extension designed to streamline your workflow by
 ## Installation
 
 1.  **Download the Extension:**
-    *   Clone this repository to your local machine:
-        ```
-        git clone https://github.com/zbailey83/prompt-save.git
-        ```
-    *   Alternatively, download the source code as a ZIP file from GitHub.
+    *   Download the source code as a ZIP file from GitHub. https://github.com/zbailey83/prompt-save/archive/refs/heads/main.zip
 
 2.  **Enable Developer Mode in Chrome:**
     *   Open Chrome and navigate to `chrome://extensions`.
