@@ -1,7 +1,5 @@
 # Prompt-Save: Chrome Extension for Quick Prompt Management
 
-![Prompt-Save Logo/Screenshot Placeholder](link-to-your-logo-or-screenshot-here)
-
 ## Overview
 
 Prompt-Save is a Google Chrome extension designed to streamline your workflow by allowing you to quickly save, copy, and paste frequently used prompts.  Whether you're a developer, writer, customer support agent, or anyone who relies on repetitive text snippets, Prompt-Save can significantly boost your productivity.
